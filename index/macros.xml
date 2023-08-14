@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<entry name="Cluster_876_sector*" value="maps\XU_ep2_universe\sectors" />
+	<entry name="zone*" value="maps\xu_ep2_universe\zones" />
+	<entry name="Cluster_876_macro" value="maps\XU_ep2_universe\clusters" />
+</index>

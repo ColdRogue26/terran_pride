@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UtF-8"?>
+<diff>
+	
+	<!-- Adds Custom Sector Names and Descriptions -->
+	<add sel="/language">
+		<page id="87600" title="Custom Systems" descr="Names and descriptions of systems" voice="no">
+			
+			<t id="87601">Terran Pride</t>
+			<t id="87602">Terran Pride is a newly founded colony connected to Titan. Little did the Terrans know when they inhabited the system, that it was also connected to a xenon sector.</t>
+			<!-- <t id="87603">{20005,3028} {20402,4}(Emperor Mines)</t> -->
+		</page>
+	</add>
+	
+</diff>

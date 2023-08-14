@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="terran_pride" name="terran pride" description="Adds an extra Sector (Terran Pride) and serves as a connection between Titan and Faulty Logic 1" author="ColdRogue26" version="100" date="2023-08-11" save="0" enabled="1" sync="false" lastupdate="1684664234">
+	<dependency id="ego_dlc_terran" version="100" optional="false" name ="Cradle of Humanity" />
+</content>

@@ -1,0 +1,14 @@
+<diff>
+	<add sel="//macros/macro[@name='XU_EP2_universe_macro']/connections">
+		<connection name="Cluster_876_connection" ref="clusters">
+			<offset>
+				<position x="-120000000" y="0" z="-34640000" />
+			</offset>
+			<macro ref="Cluster_876_macro" connection="galaxy" />
+		</connection>
+		
+		<connection name="ClusterGate876To108" ref="destination" path="../Cluster_876_connection/Cluster_876_Sector001_connection/Zone001_Cluster_876_Sector001_connection/connection_ClusterGate876To108">
+			<macro connection="destination" path="../../../../../Cluster_108_connection/Cluster_108_Sector002_connection/Zone006_Cluster_108_Sector002_connection/connection_ClusterGate108To876" />
+		</connection>
+	</add>
+</diff>
